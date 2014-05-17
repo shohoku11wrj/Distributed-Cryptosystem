@@ -5,3 +5,13 @@ A cryptography system implemented by distribution of particles in quantum entang
 
 Should be a long term project.
 
+## Term
+
+Quantum Cryptography 量子加密
+
+Quantum Teleportation 量子通信
+
+## Regerence
+
+中科大的两个院士领衔: 郭光灿，潘建伟
+
