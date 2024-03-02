@@ -5,7 +5,7 @@ A cryptography system implemented by distribution of particles in quantum entang
 
 Should be a long term project.
 
-And people call it blockchain now.
+People call it blockchain now.
 
 ## Term
 
